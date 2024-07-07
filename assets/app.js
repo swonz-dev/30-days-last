@@ -12,7 +12,7 @@ import JSConfetti from 'js-confetti'
 console.log('This log comes from assets/app.js - welcome to AssetMapper! 🎉');
 
 // day 3
-alienGreeting('We will ANALyze YOU!', true);
+alienGreeting('We will ANALyze YOU!', false);
 
 // day 4
 const jsConfetti = new JSConfetti()
