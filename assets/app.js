@@ -6,4 +6,7 @@
  */
 import './styles/app.css';
 
+import alienGreeting from "./lib/alien-greeting.js";
+alienGreeting('asd', true);
+
 console.log('This log comes from assets/app.js - welcome to AssetMapper! 🎉');
